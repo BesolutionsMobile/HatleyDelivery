@@ -60,5 +60,11 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>FacebookAppID</key>
+	<string>1773872226252815</string>
+	<key>FacebookDisplayName</key>
+	<string>Hatley</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Location is Needed for Specifing the Order Place</string>
 </dict>
 </plist>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>883293381058-g6a6npi183v3kt3vh5gc943e8ordkd4i.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.883293381058-g6a6npi183v3kt3vh5gc943e8ordkd4i</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>883293381058-9gbmnfo9kc8m1jo91hc61e69f7jlpl9e.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDwQxVioNm6F1t-j57njcLxcy2ogm2tIaQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>883293381058</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.amirahmed.HatleyOriginal</string>
+	<key>PROJECT_ID</key>
+	<string>hatley2</string>
+	<key>STORAGE_BUCKET</key>
+	<string>hatley2.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:883293381058:ios:ed57244d3db132c89c365b</string>
+	<key>DATABASE_URL</key>
+	<string>https://hatley2.firebaseio.com</string>
+</dict>
+</plist>
